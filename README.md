@@ -19,7 +19,11 @@ We have used the 5% of the dataset to create our ML model. It contains 10 best f
 We have used 3 different models to the same dataset to check the performance of different models. The models which we have used are Logistic Regression Model, Support Vector Machines and XGBoost model. Preprocessing is similar on the all 3 models with category as the target value. Data is also encoded and scaled to fit in the model. After getting the base accuracy for the model, we tuned our model by HyperParameter Tuning and got better accuracy for each of the model.
 
 # Results: -
+
 Logistic Regression: ~ 97%
+
 SVM: ~ 99%
+
 XGBoost: ~ 91%
+
 SVM performed best here after parameter tuning.
