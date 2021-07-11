@@ -1,7 +1,7 @@
 # Intrusion-Detection-System
 # INTRUSION DETECTION SYSTEM USING MACHINE LEARNING ALGORITHMS
 
-The aim of this system is to Detect Attack in a network using Machine Learning.
+The aim of this system is to Detect Attack on a network using Machine Learning.
 
 # ABOUT DATASET: -
 Dataset Source: The BoT-IoT Dataset
